@@ -1,4 +1,7 @@
-//package Fact;
+// Sakwa Alvitre
+// Comp350
+// Updating file for second commit 
+
 import java.util.Scanner;
 
 public class Factorial {
